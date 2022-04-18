@@ -1,0 +1,4 @@
+﻿  DataProject.cpp
+C:\Users\LENOVO\source\repos\DataProject\DataProject\DataProject.cpp(23,39): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned int', possible loss of data
+C:\Users\LENOVO\source\repos\DataProject\DataProject\DataProject.cpp(128,17): warning C4101: 'id': unreferenced local variable
+  DataProject.vcxproj -> C:\Users\LENOVO\source\repos\DataProject\Debug\DataProject.exe
